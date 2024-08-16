@@ -1,4 +1,7 @@
 {
   "name": "ncert12thbooks",
-  "displayName": "ncert12thbooks"
+  "displayName": "NCERT All 12th Books - CBSE",
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-5874253013765779~8987814406"
+  }
 }
